@@ -1,4 +1,3 @@
-# py-web-hw12
 
 # Rest API Contacts
 
